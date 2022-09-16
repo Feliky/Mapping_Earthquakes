@@ -9,6 +9,7 @@ Via Leaflet (https://leafletjs.com/reference.html), JavaScript and external live
 ## Layer Selection
 
 This map gives you the option to decide which type of map to use and the layers.
+
 ![Map_Selection](https://user-images.githubusercontent.com/84817579/190553737-9eb5fd8d-ba42-48e0-81f7-533cd34923c0.png)
 
 ## Map Types (Streets, Satellite, and Dark Maps)
